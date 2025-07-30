@@ -8,7 +8,7 @@ function App() {
     <div className="flex flex-col gap-10 items-center">
       <header className="flex h-40 justify-center bg-emerald-300 drop-shadow-md w-screen">
         <figure>
-          <img src={logo} className="size-40 select-none" />
+          <img src={logo} className="vibrate-3-normal size-40 select-none" />
         </figure>
       </header>
       <article className="flex gap-5">
